@@ -37,7 +37,6 @@ btn.addEventListener("click", function () {
 
     table.appendChild(tr);
 
-    // optional: clear fields
     title.value = "";
     author.value = "";
     isbn.value = "";
