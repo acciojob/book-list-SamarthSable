@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.form-group{
+	display:flex;
+	flex-direction:column;
+}
